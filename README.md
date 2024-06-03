@@ -1,4 +1,6 @@
-BMI270 Sensor API
+*This fork adds a library.json file for immediate inclusion in platformio*
+
+# BMI270 Sensor API
 
 > This package contains the sensor APIs for the BMI270 sensor
 

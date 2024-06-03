@@ -1,0 +1,6 @@
+{
+  "build": {
+    "srcDir": ".",
+    "srcFilter": "+<bmi270.c> +<bmi2.c>"
+  }
+}
